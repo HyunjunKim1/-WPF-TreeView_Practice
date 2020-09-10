@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_TreeView_mvvm", "WPF_TreeView_mvvm\WPF_TreeView_mvvm.csproj", "{5CBD5190-BC9F-4969-AAF0-798A2C718699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CBD5190-BC9F-4969-AAF0-798A2C718699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBD5190-BC9F-4969-AAF0-798A2C718699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBD5190-BC9F-4969-AAF0-798A2C718699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBD5190-BC9F-4969-AAF0-798A2C718699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63D839C5-690D-4600-83F3-624D60C7BBE5}
+	EndGlobalSection
+EndGlobal
